@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mikhail
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-.<h3 align="center">Quality Assurance Automation Engineer since july 2019</h3>
+<h3 align="center">Quality Assurance Automation Engineer since july 2019</h3>
 
 <table width="100%" border='0'>
    <tr> 
@@ -12,8 +12,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MishkaKovalQA)](https://github.com/MishkaKovalQA/github-readme-stats)
 
-## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/MishkaKovalQA/libertex-autotests">libertex-autotests</a></br></br>
+## UI Testing
+:link: Test project: <a target="_blank" href="https://github.com/MishkaKovalQA/libertex-autotests">libertex-autotests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :heavy_check_mark: Implemented UI autotests to verify elements of the "Libertex" main page, as well as the filter and application for vacancy on career page.</br></br>
 :triangular_flag_on_post: What's special:
